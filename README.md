@@ -31,6 +31,6 @@ Parameter 'end' dalam fungsi 'Print()' di python digunakan untuk menambahkan str
 ```Python
 print()
 ````
-Secara Default, fungsi 'print()' akan mengakhiri dengan baris baru
+Secara Default, fungsi `print()` akan mengakhiri dengan baris baru
 
 
