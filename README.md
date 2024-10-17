@@ -43,6 +43,14 @@ Secara Default, fungsi `print()` akan mengakhiri dengan baris baru, dan akan sec
 ## PENGGUNAAN SEPARATOR
 ![PenggunaanSeparator](https://github.com/user-attachments/assets/2ff0ca65-d1c7-45b0-8ab9-74c2e3bca8f3)
 
+```Python
+w, x, y, z = 10, 15, 20, 25
+print(w, x, y, z)
+print(w, x, y, z, sep=',')
+print(w, x, y, z, sep='')
+print(w, x, y, z, sep=':')
+print(w, x, y, z, sep='-----')
+````
 
 
 
