@@ -162,5 +162,13 @@ else:
     print(f"angka lebih besar adalah {c}")
 ````
 Jika inputan yang diatas lebih kecil dari {c} maka output {c} yang akan keluar
+<p>Ini adala hasil program tersebut :</p>
+
+![input3bil](https://github.com/user-attachments/assets/b663a7b1-cbfc-47f9-b02e-2f6e661c1fb3)
+
+<p>dengan eksekusi program :</p>
+
+![ssfullekseusi3bil](https://github.com/user-attachments/assets/41cdbffe-aaff-40b6-a77a-8ba5a4dbc412)
+
 
 
