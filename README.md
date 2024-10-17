@@ -72,6 +72,12 @@ print(w, x, y, z, sep=',')
 karna pemisahnya dihilangkan kita memakainya fungsi `sep=','` untuk membuat pemisah yaitu `(,)` koma di kode program ini
 <p>dan kode program seterusnyapun begitu menggunakan fungsi `sep` atau `split()` dan kita memasukan pemisahnya didalam string akan memunculkan cetakkan yang sesuai keinginan anda dalam memisahkan sesuatu parameter</p>
 
+## STRING FORMAT
+
+
+
+
+
 
 
 
