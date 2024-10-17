@@ -18,7 +18,7 @@
 
 ## PENGGUNAAN END
 ![sspenggunaanendlatihan1p3](https://github.com/user-attachments/assets/2bf9fa7a-756c-49eb-95ad-c3b2f0d11b36)
-'''Python
+```Python
 print('A', end='')
 print('B', end='')
 print('C', end='')
@@ -26,7 +26,7 @@ print()
 print('X')
 print('Y')
 print('Z')
-''''
+````
 
 
 
