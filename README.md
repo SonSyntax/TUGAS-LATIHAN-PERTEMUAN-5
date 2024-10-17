@@ -27,6 +27,7 @@ print('X')
 print('Y')
 print('Z')
 ````
+Parameter 'end' dalam fungsi 'Print()'
 
 
 
