@@ -32,5 +32,9 @@ Parameter `end` dalam fungsi `Print()` di python digunakan untuk menambahkan str
 print()
 ````
 Secara Default, fungsi `print()` akan mengakhiri dengan baris baru, dan akan secara otomatis menambahkan karakter baris baru di akhir Outputnya
+dengan hasil program tersebut :
+![sshasilpenggunaanlatihan1p3](https://github.com/user-attachments/assets/8b94d286-b1e5-419d-a459-e3e68e34fa8f)
+
+
 
 
