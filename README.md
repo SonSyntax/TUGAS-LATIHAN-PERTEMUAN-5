@@ -11,9 +11,9 @@
 #### PRAKTIKUM 3
 ## LATIHAN 1
 ![sslatihan1p3](https://github.com/user-attachments/assets/c55fed7a-d5c7-4d5a-8cd4-f6f93ef8ed8a)
-<p>Pembahasan Mengenai :
-# Penggunaan End
-# Penggunaan Separator
-# String Format
-</p>
+<p>Pembahasan Mengenai :</p>
+<p># Penggunaan End</p>
+<p># Penggunaan Separator</p>
+<p># String Format</p>
+
 
