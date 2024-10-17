@@ -41,6 +41,7 @@ Secara Default, fungsi `print()` akan mengakhiri dengan baris baru, dan akan sec
 ![hasilbaru](https://github.com/user-attachments/assets/a2775246-1374-4d7d-a64c-d67a4592309b)
 
 ## PENGGUNAAN SEPARATOR
+![PenggunaanSeparator](https://github.com/user-attachments/assets/2ff0ca65-d1c7-45b0-8ab9-74c2e3bca8f3)
 
 
 
