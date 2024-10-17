@@ -5,10 +5,10 @@
   <p>NIM : 312410290</p>
   <p>MATKUL : BAHASA PEMROGRAMAN</p>
 
-### TUGAS LATIHAN 
+## TUGAS LATIHAN 
 ![ssTugaslatihan](https://github.com/user-attachments/assets/73d90a5f-3d61-4756-a812-177fc694c4a7)
 
 #### PRAKTIKUM 3
-#### LATIHAN 1
+## LATIHAN 1
 
 
