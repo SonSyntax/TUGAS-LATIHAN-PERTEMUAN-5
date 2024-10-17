@@ -6,5 +6,6 @@
   <p>MATKUL : BAHASA PEMROGRAMAN</p>
 
 ### LATIHAN TUGAS 
-![gambar](ssTugaslatihan)
+![ssTugaslatihan](https://github.com/user-attachments/assets/73d90a5f-3d61-4756-a812-177fc694c4a7)
+
 
