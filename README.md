@@ -27,10 +27,10 @@ print('X')
 print('Y')
 print('Z')
 ````
-Parameter 'end' dalam fungsi 'Print()' di python digunakan untuk menambahkan string (" ") apapun diakhir dan mengeluarkan pernyataan Print
+Parameter `end` dalam fungsi `Print()` di python digunakan untuk menambahkan string (" ") apapun diakhir dan mengeluarkan pernyataan Print
 ```Python
 print()
 ````
-Secara Default, fungsi `print()` akan mengakhiri dengan baris baru
+Secara Default, fungsi `print()` akan mengakhiri dengan baris baru, dan akan secara otomatis menambahkan karakter baris baru di akhir Outputnya
 
 
