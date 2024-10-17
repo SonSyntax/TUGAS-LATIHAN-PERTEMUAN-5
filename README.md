@@ -65,11 +65,12 @@ y = 20, z = 25
 ```Python
 print(w, x, y, z)
 ````
-fungsi ini hanya mencetak saja yang menggunakan fungsi `print()`, tetapi `(,)` hasil program tersebut hilang
+fungsi ini hanya mencetak saja yang menggunakan fungsi `print()`, tetapi di karenakan mencetak parameter, koma tersebut dihilangkan 
 ```python
 print(w, x, y, z, sep=',')
 ````
-fungsi ini, kalau kita memulai programnya di karenakan `sep=','`, yang seharusnya pada normalnya hasil program seperti 
+karna pemisahnya dihilangkan kita memakainya fungsi `sep=','` untuk membuat pemisah yaitu `(,)` koma di kode program ini
+<p>dan kode program seterusnyapun begitu menggunakan fungsi `sep` atau `split()` dan kita memasukan pemisahnya didalam string akan memunculkan cetakkan yang sesuai keinginan anda dalam memisahkan sesuatu parameter</p>
 
 
 
