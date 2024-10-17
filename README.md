@@ -73,6 +73,7 @@ karna pemisahnya dihilangkan kita memakainya fungsi `sep=','` untuk membuat pemi
 <p>dan kode program seterusnyapun begitu menggunakan fungsi `sep` atau `split()` dan kita memasukan pemisahnya didalam string akan memunculkan cetakkan yang sesuai keinginan anda dalam memisahkan sesuatu parameter</p>
 
 ## STRING FORMAT
+![stringformat](https://github.com/user-attachments/assets/1b64d016-ee87-425d-baec-da0ff9932b64)
 
 
 
