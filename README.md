@@ -151,16 +151,16 @@ Program ini akan menginputkan 3 bilangan dari yang a sampai dengan c.
 if a > b and a > c:
     print(f"angka lebih besar adalah {a}")
 ````
- Karna Jika a lebih besar dari b dan a lebih besar dari c, output yang keluar adalah a
+ Karna Jika {a} lebih besar dari {b} dan {a} lebih besar dari {c}, output yang keluar adalah {a}
  ```Python
 elif b > a and b > c:
     print(f"angka lebih besar adalah {b}")
 ````
-dan jika b > a dan b > c maka output yang keluar adalah b
+dan jika {b} lebih besar dari {a} dan {b} lebih besar dari {c} maka output yang keluar adalah {b}
 ```Python
 else:
     print(f"angka lebih besar adalah {c}")
 ````
-Jika inputan yang diatas lebih kecil c maka output c yang akan keluar
+Jika inputan yang diatas lebih kecil dari {c} maka output {c} yang akan keluar
 
 
