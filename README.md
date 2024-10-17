@@ -33,7 +33,9 @@ print()
 ````
 Secara Default, fungsi `print()` akan mengakhiri dengan baris baru, dan akan secara otomatis menambahkan karakter baris baru di akhir Outputnya
 <P>ini hasil program tersebut :</p>
-![sshasilpenggunaanlatihan1p3](https://github.com/user-attachments/assets/8b94d286-b1e5-419d-a459-e3e68e34fa8f)
+
+![sshasilpenggunaanlatihan1p3](https://github.com/user-attachments/assets/e1269cc5-7a35-46e1-9769-510bf9a35d4d)
+
 
 
 
