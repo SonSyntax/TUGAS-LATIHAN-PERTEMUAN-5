@@ -52,7 +52,11 @@ print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='-----')
 ````
 Pada python penggunaan Separator dapat menggunakan Fungsi `split()` atau `sep` yang seperti dalam kode program diatas
-<p>Separator ini menentukan pembatas yang digunakan untuk memisahkan string, separator dapat berupa karakter tunggal atau beberapa karakter.Jika tidak ditentukan, maka python akan menggunakan spasi sebagai pemisah</p>
+<p>Separator ini menentukan pembatas yang digunakan untuk memisahkan string, separator dapat berupa karakter tunggal atau beberapa karakter.Jika tidak ditentukan, maka python akan menggunakan spasi sebagai pemisah.</p>
+<p>Berikut Hasil Kode Program diatas : </p>
+
+![hasilbaru2](https://github.com/user-attachments/assets/10aeb6fc-4f8d-4007-89c3-6c97aa7a7f73)
+
 
 
 
