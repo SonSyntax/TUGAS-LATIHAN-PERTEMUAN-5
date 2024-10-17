@@ -132,7 +132,35 @@ Kode inimencetak 11 baris dengan format `{0:3}` `{1:16}` yang di gunakan untuk m
 <p>Pada string pertama, angka `0` di format untuk memeliki lebar 3 karakter atau yang bisa disebut 3 kali spasi dengan perataan kanan.</p>
 <p>angka 1 diformat untuk memiliki lebar 16 Karakter atau 16 kali spasi dengan perataan kanan, dan masing-masing mencetak nilai seperti format di atas dengan fungsi `print()`</p>
 
+## KODE PROGRAM 
+### 3 INPUT BILANGAN
+```Python
+a = int(input("masukan angka pertama: "))
+b = int(input("masukan angka kedua: "))
+c = int(input("masukan angka ketiga: "))
 
-
+if a > b and a > c:
+    print(f"angka lebih besar adalah {a}")
+elif b > a and b > c:
+    print(f"angka lebih besar adalah {b}")
+else:
+    print(f"angka lebih besar adalah {c}")
+````
+Program ini akan menginputkan 3 bilangan dari yang a sampai dengan c.
+```Python
+if a > b and a > c:
+    print(f"angka lebih besar adalah {a}")
+````
+ Karna Jika a lebih besar dari b dan a lebih besar dari c, output yang keluar adalah a
+ ```Python
+elif b > a and b > c:
+    print(f"angka lebih besar adalah {b}")
+````
+dan jika b > a dan b > c maka output yang keluar adalah b
+```Python
+else:
+    print(f"angka lebih besar adalah {c}")
+````
+Jika inputan yang diatas lebih kecil c maka output c yang akan keluar
 
 
