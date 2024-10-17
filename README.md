@@ -174,3 +174,16 @@ Jika inputan yang diatas lebih kecil dari {c} maka output {c} yang akan keluar
 
 ![flow3bil](https://github.com/user-attachments/assets/e78cf387-c05a-484a-a6e8-3c1cd627ee54)
 
+### MENENTUKAN BILANGAN TERBESAR
+```Python
+max = 0
+
+while True:   
+    N = int(input("masukan angka: "))
+
+    if N == 0:
+        print(f"{max}")
+        break
+    if N > max:
+        max = N
+````
