@@ -27,7 +27,7 @@ print('X')
 print('Y')
 print('Z')
 ````
-Parameter `end` dalam fungsi `Print()` di python digunakan untuk menambahkan string (" ") apapun diakhir dan mengeluarkan pernyataan Print
+Parameter `end` dalam fungsi `Print()` di python digunakan untuk menambahkan string `(" ")` apapun diakhir dan mengeluarkan pernyataan Print
 ```Python
 print()
 ````
@@ -35,6 +35,9 @@ Secara Default, fungsi `print()` akan mengakhiri dengan baris baru, dan akan sec
 <P>ini hasil program tersebut :</p>
 
 ![sshasilpenggunaanlatihan1p3](https://github.com/user-attachments/assets/e1269cc5-7a35-46e1-9769-510bf9a35d4d)
+<p>dan ini hasil tanpa menggunakan function `print()` di tengah pada kode program di atas :</p>
+![hasilbaru](https://github.com/user-attachments/assets/a2775246-1374-4d7d-a64c-d67a4592309b)
+
 
 
 
