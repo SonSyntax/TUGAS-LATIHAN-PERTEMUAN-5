@@ -170,5 +170,7 @@ Jika inputan yang diatas lebih kecil dari {c} maka output {c} yang akan keluar
 
 ![ssfullekseusi3bil](https://github.com/user-attachments/assets/41cdbffe-aaff-40b6-a77a-8ba5a4dbc412)
 
+<p>dan flowchart sebagai berikut : </p>
 
+![flow3bil](https://github.com/user-attachments/assets/e78cf387-c05a-484a-a6e8-3c1cd627ee54)
 
