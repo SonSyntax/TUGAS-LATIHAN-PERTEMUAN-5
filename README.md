@@ -57,9 +57,19 @@ Pada python penggunaan Separator dapat menggunakan Fungsi `split()` atau `sep` y
 
 ![hasilbaru2](https://github.com/user-attachments/assets/10aeb6fc-4f8d-4007-89c3-6c97aa7a7f73)
 
-
-<p>Untuk memisahkan item dalam daftar yang dipisahkan dengan koma, gunakan koma sebagai pemisah</p>
-
+```Python
+w, x, y, z = 10, 15, 20, 25
+````
+Variable yang seperti ini menentukan parameter, jadi variable ini tidak bisa memasukan variable huruf melainkan variable angka yang sudah ditentukan w = 10, x = 15,
+y = 20, z = 25
+```Python
+print(w, x, y, z)
+````
+fungsi ini hanya mencetak saja yang menggunakan fungsi `print()`, tetapi `(,)` hasil program tersebut hilang
+```python
+print(w, x, y, z, sep=',')
+````
+fungsi ini, kalau kita memulai programnya di karenakan `sep=','`, yang seharusnya pada normalnya hasil program seperti 
 
 
 
