@@ -51,6 +51,7 @@ print(w, x, y, z, sep='')
 print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='-----')
 ````
+Pada python penggunaan Separator dapat menggunakan Fungsi `split()` atau `sep` yang seperti dalam kode program diatas
 
 
 
