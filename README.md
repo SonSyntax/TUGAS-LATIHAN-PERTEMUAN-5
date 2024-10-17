@@ -36,7 +36,7 @@ Secara Default, fungsi `print()` akan mengakhiri dengan baris baru, dan akan sec
 
 ![sshasilpenggunaanlatihan1p3](https://github.com/user-attachments/assets/e1269cc5-7a35-46e1-9769-510bf9a35d4d)
 
-<p>dan ini hasil tanpa menggunakan function `print()` di tengah pada kode program di atas :</p>
+<p>dan ini hasil tanpa menggunakan fungsi `print()` di tengah pada kode program di atas :</p>
 
 ![hasilbaru](https://github.com/user-attachments/assets/a2775246-1374-4d7d-a64c-d67a4592309b)
 
@@ -52,6 +52,7 @@ print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='-----')
 ````
 Pada python penggunaan Separator dapat menggunakan Fungsi `split()` atau `sep` yang seperti dalam kode program diatas
+<p>Separator ini menentukan pembatas yang digunakan untuk memisahkan string, separator dapat berupa karakter tunggal atau beberapa karakter.Jika tidak ditentukan, maka python akan menggunakan spasi sebagai pemisah</p>
 
 
 
