@@ -58,6 +58,7 @@ Pada python penggunaan Separator dapat menggunakan Fungsi `split()` atau `sep` y
 ![hasilbaru2](https://github.com/user-attachments/assets/10aeb6fc-4f8d-4007-89c3-6c97aa7a7f73)
 
 
+<p>Untuk memisahkan item dalam daftar yang dipisahkan dengan koma, gunakan koma sebagai pemisah</p>
 
 
 
