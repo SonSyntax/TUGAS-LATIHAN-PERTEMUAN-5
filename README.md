@@ -189,8 +189,8 @@ Untuk menentukan bilangan terbesar dari n dalam Python, Anda bisa menggunakan fu
 ```Python
 max = 0
 ````
-Masukkan daftar angka ke fungsi `max()`, Fungsi max() akan mengembalikan angka terbesar dalam daftar
-<p>Fungsi max() adalah fungsi bawaan Python yang berguna untuk menemukan nilai terbesar dalam suatu iterable atau dalam serangkaian argumen reguler.</p>
+Masukkan daftar angka ke fungsi `max()`, Fungsi `max()` akan mengembalikan angka terbesar dalam daftar
+<p>Fungsi `max()` adalah fungsi bawaan Python yang berguna untuk menemukan nilai terbesar dalam suatu iterable atau dalam serangkaian argumen reguler.</p>
 ```Python
 if N == 0:
         print(f"angka yang terbesar adalah: {max}")
