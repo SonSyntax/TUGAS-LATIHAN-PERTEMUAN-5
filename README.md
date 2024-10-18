@@ -190,22 +190,30 @@ Untuk menentukan bilangan terbesar dari n dalam Python, Anda bisa menggunakan fu
 max = 0
 ````
 Masukkan daftar angka ke fungsi `max()`, Fungsi `max()` akan mengembalikan angka terbesar dalam daftar
-<p>Fungsi `max()` adalah fungsi bawaan Python yang berguna untuk menemukan nilai terbesar dalam suatu iterable atau dalam serangkaian argumen reguler.</p>
+<p>Fungsi `max()` adalah fungsi bawaan Python yang berguna untuk menemukan nilai terbesar dalam suatu iterable atau dalam serangkaian 
+argumen reguler.</p>
+
 ```Python
 if N == 0:
         print(f"angka yang terbesar adalah: {max}")
         break
 ````
+
 Fungsi ini jika Kita memasukan inputan integer yaitu 0 akan berlanjut ke fungsi `break` program dihentikan yang artinya selesai.
+
 ```Python
 if N > max:
         max = N
 ````
+
 Jika Inputan yang kita masukan lebih besar dari fungsi `max()` di atas, program akan melanjutkan ke proses `max = N` yang artinya Angka terbesar akan Mencetak Inputan Bilangan yang kita masukan yang terbesar di cetak
+
 ```Python
 while True:
 ````
+
 `While true:` adalah konstruksi perulangan dalam bahasa pemrograman Python yang memungkinkan blok kode diulang tanpa batas. dan karna di kode program diatas ada fungsi `While True:` Program terus berlanjut terus menerus, dan ketika kita ingin berhenti saya berikan decision `N==0` dengan fungsi di bawahnya `break` seperti di atas yang berarti Inputan Integer yang di masukan angka 0 program akan di hentikan dan memunculkan cetakan yang terbesar
+
 <p>dan ini hasil program tersebut: </p>
 
 ![hasilbru4](https://github.com/user-attachments/assets/3d432805-856a-4582-8b1b-8f8a3a56a1d4)
