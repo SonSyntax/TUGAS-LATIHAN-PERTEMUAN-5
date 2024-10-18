@@ -174,7 +174,7 @@ Jika inputan yang diatas lebih kecil dari {c} maka output {c} yang akan keluar
 
 ![flow3bil](https://github.com/user-attachments/assets/e78cf387-c05a-484a-a6e8-3c1cd627ee54)
 
-### MENENTUKAN BILANGAN TERBESAR
+### MENENTUKAN BILANGAN TERBESAR DARI N DAN BERIKAN ANGKA 0
 ```Python
 max = 0
 
